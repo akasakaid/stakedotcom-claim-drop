@@ -5,13 +5,20 @@ a program to help the process of claiming prizes at the end of the week
 the program is very easy to use. Make sure you have python3 installed on your device
 
 1. Clone this repository
-```git clone https://github.com/akasakaid/stakedotcom-claim-drop```
+
+    `git clone https://github.com/akasakaid/stakedotcom-claim-drop`
+
 2. Go to the repository folder
-> cd stakedotcom-claim-drop
-3. Install all necessary modules
-> python3 -m pip install -r requirements.txt
-4. Run the program
-> python3 claim.py
+
+    `cd stakedotcom-claim-drop`
+
+4. Install all necessary modules
+
+    `python3 -m pip install -r requirements.txt`
+
+5. Run the program
+
+    `python3 claim.py`
 
 6. The program will not run directly because there are several files that you have to fill in. After running the program for the first time will be 3 files: coin.txt, token.txt, key.txt.
 fill in the coin.txt with the coin you want to claim 
