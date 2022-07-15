@@ -31,4 +31,5 @@ the program is very easy to use. Make sure you have python3 installed on your de
 > captcha.
 
 6. After the coin.txt, token.txt, key.txt is filled, run the program again
+
 	`python3 claim.py`
