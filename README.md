@@ -1,5 +1,5 @@
 # stakedotcom claim drop
-a program to help the process of claiming prizes at the end of the week
+## a program to help the process of claiming prizes at the end of the week
 
 ### how to use?
 the program is very easy to use. Make sure you have python3 installed on your device
