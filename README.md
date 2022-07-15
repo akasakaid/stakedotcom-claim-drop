@@ -5,8 +5,7 @@ a program to help the process of claiming prizes at the end of the week
 the program is very easy to use. Make sure you have python3 installed on your device
 
 1. Clone this repository
-
-> git clone https://github.com/akasakaid/stakedotcom-claim-drop
+```git clone https://github.com/akasakaid/stakedotcom-claim-drop```
 2. Go to the repository folder
 > cd stakedotcom-claim-drop
 3. Install all necessary modules
