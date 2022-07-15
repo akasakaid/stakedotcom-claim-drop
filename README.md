@@ -41,10 +41,13 @@ the program is very easy to use. Make sure you have python3 installed on your de
 	python3 claim.py
 	```
 
+### NOTE
 if you have multiple accounts, you can put tokens on every line. Example:
 
 token 1
+
 token 2
+
 Token 3
 
 ---
