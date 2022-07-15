@@ -2,7 +2,7 @@
 
 ## a program to help the process of claiming prizes at the end of the week
 ---
-### how to use?
+### HOW TO USE?
 the program is very easy to use. Make sure you have python3 installed on your device
 
 1. Clone this repository
