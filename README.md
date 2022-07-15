@@ -1,4 +1,5 @@
-# stakedotcom claim drop
+# STAKEDOTCOM CLAIM DROP
+
 ## a program to help the process of claiming prizes at the end of the week
 ---
 ### how to use?
