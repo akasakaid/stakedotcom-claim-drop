@@ -1,6 +1,6 @@
 # stakedotcom claim drop
 ## a program to help the process of claiming prizes at the end of the week
-
+---
 ### how to use?
 the program is very easy to use. Make sure you have python3 installed on your device
 
@@ -33,3 +33,5 @@ the program is very easy to use. Make sure you have python3 installed on your de
 6. After the coin.txt, token.txt, key.txt is filled, run the program again
 
 	`python3 claim.py`
+
+---
